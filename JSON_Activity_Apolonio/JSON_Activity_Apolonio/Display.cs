@@ -33,7 +33,7 @@ namespace Apolonio
         private void btnOpenAddForm_Click(object sender, EventArgs e)
         {
             var addForm = new AddGroceriesForm();
-            addForm.FormClosed += (s, args) => LoadShoppingList(); // Refresh on close
+            addForm.FormClosed += (s, args) => LoadShoppingList();
             addForm.Show();
         }
     }
