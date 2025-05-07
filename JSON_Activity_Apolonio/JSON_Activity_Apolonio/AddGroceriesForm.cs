@@ -17,7 +17,6 @@ namespace Apolonio
         {
             InitializeComponent();
 
-            // Load existing items
             if (File.Exists(filePath))
             {
                 string json = File.ReadAllText(filePath);
