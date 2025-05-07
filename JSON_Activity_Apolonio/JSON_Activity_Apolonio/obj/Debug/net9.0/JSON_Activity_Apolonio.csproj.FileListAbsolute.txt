@@ -1,0 +1,5 @@
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\obj\Debug\net9.0\JSON_Activity_Apolonio.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\obj\Debug\net9.0\JSON_Activity_Apolonio.AssemblyInfoInputs.cache
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\obj\Debug\net9.0\JSON_Activity_Apolonio.AssemblyInfo.cs
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\obj\Debug\net9.0\JSON_Activity_Apolonio.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\obj\Debug\net9.0\JSON_Activity_Apolonio.MvcApplicationPartsAssemblyInfo.cache

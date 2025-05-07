@@ -1,0 +1,14 @@
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\bin\Debug\net9.0-windows\JSON_Activity_Apolonio.exe
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\bin\Debug\net9.0-windows\JSON_Activity_Apolonio.deps.json
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\bin\Debug\net9.0-windows\JSON_Activity_Apolonio.runtimeconfig.json
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\bin\Debug\net9.0-windows\JSON_Activity_Apolonio.dll
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\bin\Debug\net9.0-windows\JSON_Activity_Apolonio.pdb
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\obj\Debug\net9.0-windows\JSON_Activity_Apolonio.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\obj\Debug\net9.0-windows\JSON_Activity_Apolonio.AssemblyInfoInputs.cache
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\obj\Debug\net9.0-windows\JSON_Activity_Apolonio.AssemblyInfo.cs
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\obj\Debug\net9.0-windows\JSON_Activity_Apolonio.csproj.CoreCompileInputs.cache
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\obj\Debug\net9.0-windows\JSON_Activity_Apolonio.dll
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\obj\Debug\net9.0-windows\refint\JSON_Activity_Apolonio.dll
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\obj\Debug\net9.0-windows\JSON_Activity_Apolonio.pdb
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\obj\Debug\net9.0-windows\JSON_Activity_Apolonio.genruntimeconfig.cache
+D:\VS Code Projects\JSON_Activity_Apolonio\JSON_Activity_Apolonio\obj\Debug\net9.0-windows\ref\JSON_Activity_Apolonio.dll
